@@ -37,19 +37,19 @@
         </tr>
         <tr>
             <td>Comando clone</td>
-            <td>git clone <url>)</td>
+            <td>Comando utilizado para baixar repositório remoto</td>
         </tr>
          <tr>
             <td>Comando init</td>
-            <td>git init</td>
+            <td>Comando utilizado para iniciar um repositório local no diretório atual</td>
         </tr>
         <tr>
             <td>Comando status</td>
-            <td>git status</td>
+            <td>Comando utilizado para mostrar os estados dos arquivos do branch atual no repositório local</td>
         </tr>
         <tr>
             <td>Comando log</td>
-            <td>git log</td>
+            <td>Comando utilizado para listar os commits do branch atual no repositório local</td>
         </tr>
          <tr>
             <td>Comando diff</td>
