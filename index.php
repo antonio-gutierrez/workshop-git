@@ -36,20 +36,20 @@
             <td>Arquivo j&aacute; foi modificado e entrou na &aacute;rea de stage</td>
         </tr>
         <tr>
-            <td>git clone</td>
-            <td>Comando utilizado para baixar repozitório remoto</td>
+            <td>Comando clone</td>
+            <td>Comando utilizado para baixar repositório remoto</td>
         </tr>
          <tr>
-            <td>git init</td>
-            <td>Comando utilizado para iniciar um repozitórioitório local no diretório atual</td>
+            <td>Comando init</td>
+            <td>Comando utilizado para iniciar um repositório local no diretório atual</td>
         </tr>
         <tr>
-            <td>git status</td>
-            <td>Comando utilizado para mostrar os estados dos arquivos do branch atual no repozitório local</td>
+            <td>Comando status</td>
+            <td>Comando utilizado para mostrar os estados dos arquivos do branch atual no repositório local</td>
         </tr>
         <tr>
-            <td>git log</td>
-            <td>Comando utilizado para listar os commits do branch atual no repozitório local</td>
+            <td>Comando log</td>
+            <td>Comando utilizado para listar os commits do branch atual no repositório local</td>
         </tr>
          <tr>
             <td>git diff</td>
