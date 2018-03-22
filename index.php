@@ -11,28 +11,28 @@
     </thead>
     <tbody>
         <tr>
-            <td>&nbsp;</td>
+            <td>Diret&oacute;rio de Trabalho</td>
             <td>Área de arquivos locais não rastreados</td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
-            <td>Área de arquivos rastreados com modificações</td>
+            <td>&Aacute;rea de stage</td>
+            <td>&Aacute;rea de arquivos que entrar&atilde;o no commit</td>
         </tr>
         <tr>
             <td>Tracked</td>
-            <td>&nbsp;</td>
+            <td>O arquivo est&aacute; sendo rastreado pelo Git</td>
         </tr>
         <tr>
             <td>Untracked</td>
-            <td>&nbsp;</td>
+            <td>O arquivo n&atilde;o est&aacute; sendo rastreado pelo Git</td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>Modified</td>
+            <td>O arquivo foi modificado , mas ainda n&atilde;o est&aacute; na &aacute;rea de stage</td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>Staged</td>
+            <td>Arquivo j&aacute; foi modificado e entrou na &aacute;rea de stage</td>
         </tr>
         <tr>
             <td>Comando clone</td>
