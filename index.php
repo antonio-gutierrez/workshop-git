@@ -36,19 +36,19 @@
         </tr>
         <tr>
             <td>Comando clone</td>
-            <td>Comando utilizado para baixar repozitório remoto</td>
+            <td>Comando utilizado para baixar repositório remoto</td>
         </tr>
          <tr>
             <td>Comando init</td>
-            <td>Comando utilizado para iniciar um repozitórioitório local no diretório atual</td>
+            <td>Comando utilizado para iniciar um repositório local no diretório atual</td>
         </tr>
         <tr>
             <td>Comando status</td>
-            <td>Comando utilizado para mostrar os estados dos arquivos do branch atual no repozitório local</td>
+            <td>Comando utilizado para mostrar os estados dos arquivos do branch atual no repositório local</td>
         </tr>
         <tr>
             <td>Comando log</td>
-            <td>Comando utilizado para listar os commits do branch atual no repozitório local</td>
+            <td>Comando utilizado para listar os commits do branch atual no repositório local</td>
         </tr>
          <tr>
             <td>Comando diff</td>
@@ -68,11 +68,11 @@
         </tr>
         <tr>
             <td>&nbsp;</td>
-            <td>Comando utilizado para sincronizar o branch atual com repozitório remoto</td>
+            <td>Comando utilizado para sincronizar o branch atual com repositório remoto</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
-            <td>Comando utilizado para enviar alterações do branch atual do repozitório local para o repozitório remoto</td>
+            <td>Comando utilizado para enviar alterações do branch atual do repositório local para o repositório remoto</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
