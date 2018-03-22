@@ -52,20 +52,20 @@
             <td>Comando utilizado para listar os commits do branch atual no repositório local</td>
         </tr>
          <tr>
-            <td>Comando diff</td>
             <td>git diff</td>
+            <td>Comando utilizado para verificar as diferentes alterações entre arquivos </td>
         </tr>
         <tr>
             <td>Comando add</td>
-            <td>&nbsp;</td>
+            <td>Comando utilizado para adicionar na área de stage</td>
         </tr>
         <tr>
             <td>Comando commit</td>
-            <td>&nbsp;</td>
+            <td>Comando utilizado para adicionar a área commited e referenciar as alterações feitas atraves de uma breve descrição</td>
         </tr>
         <tr>
             <td>Comando chekout</td>
-            <td>&nbsp;</td>
+            <td></td>
         </tr>
         <tr>
             <td>&nbsp;</td>
