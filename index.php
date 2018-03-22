@@ -1,6 +1,6 @@
 <h3> Bem-vindos aos Execícios de Git</h3>
 
-<p>Complete a tabela abaixo com o nome do tópico ou sua descrição:</p>
+<p>Complete a tabela abaixo com o nome do tópico ou sua descrição:</p> 
 
 
 <table>
@@ -69,11 +69,11 @@
         </tr>
         <tr>
             <td>&nbsp;</td>
-            <td>Comando utilizado para sincronizar o branch atual com repozitório remoto</td>
+            <td>Comando utilizado para sincronizar o branch atual com repositório remoto</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
-            <td>Comando utilizado para enviar alterações do branch atual do repozitório local para o repozitório remoto</td>
+            <td>Comando utilizado para enviar alterações do branch atual do repositório local para o repositório remoto</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
